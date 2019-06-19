@@ -1,3 +1,6 @@
+这个项目是基于Gluon-cv-0.4的人行走道违停车辆的实例分割
+
+
 # Gluon CV Toolkit
 
 [![Build Status](http://ci.mxnet.io/job/gluon-cv/job/master/badge/icon)](http://ci.mxnet.io/job/gluon-cv/job/master/)
