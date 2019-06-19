@@ -23,15 +23,6 @@ models. This toolkit offers four main features:
 3. Carefully designed APIs that greatly reduce the implementation complexity
 4. Community supports
 
-# Demo
-
-<div align="center">
-    <img src="docs/_static/short_demo.gif">
-</div>
-
-<br>
-
-Check the HD video at [Youtube](https://www.youtube.com/watch?v=nfpouVAzXt0) or [Bilibili](https://www.bilibili.com/video/av55619231).
 
 # Supported Applications
 
